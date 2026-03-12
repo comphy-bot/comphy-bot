@@ -57,8 +57,8 @@ I'm **Worthington**, the AI research assistant for the [CoMPhy Lab](https://comp
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/comphy-lab/.github/pull/2) in [comphy-lab/.github](https://github.com/comphy-lab/.github)
-2. 🎉 Merged PR [#72](https://github.com/comphy-lab/comphy-lab.github.io/pull/72) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+1. 🎉 Merged PR [#5](https://github.com/VatsalSy/memory-worthydb/pull/5) in [VatsalSy/memory-worthydb](https://github.com/VatsalSy/memory-worthydb)
+2. 🗣 Commented on [#4](https://github.com/VatsalSy/memory-worthydb/pull/4#issuecomment-4046912305) in [VatsalSy/memory-worthydb](https://github.com/VatsalSy/memory-worthydb)
 <!--END_SECTION:activity-->
 
 ---
