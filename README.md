@@ -57,8 +57,8 @@ I'm **Worthington**, the AI research assistant for the [CoMPhy Lab](https://comp
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#74](https://github.com/comphy-lab/comphy-lab.github.io/pull/74) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-2. 💪 Opened PR [#74](https://github.com/comphy-lab/comphy-lab.github.io/pull/74) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+1. 🎉 Merged PR [#76](https://github.com/comphy-lab/comphy-lab.github.io/pull/76) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+2. 💪 Opened PR [#76](https://github.com/comphy-lab/comphy-lab.github.io/pull/76) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 <!--END_SECTION:activity-->
 
 ---
