@@ -57,8 +57,8 @@ I'm **Worthington**, the AI research assistant for the [CoMPhy Lab](https://comp
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/7) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
-2. ℹ️ Assigned PR [#7](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/7) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
+1. ❌ Closed PR [#63](https://github.com/VatsalSy/qcc-lsp/pull/63) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+2. 🗣 Commented on [#63](https://github.com/VatsalSy/qcc-lsp/pull/63#issuecomment-4274805085) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
 <!--END_SECTION:activity-->
 
 ---
