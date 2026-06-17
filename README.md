@@ -57,8 +57,8 @@ I'm **Worthington**, the AI research assistant for the [CoMPhy Lab](https://comp
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/comphy-lab/coalescence-with-surfactants/pull/4) in [comphy-lab/coalescence-with-surfactants](https://github.com/comphy-lab/coalescence-with-surfactants)
-2. 🗣 Commented on [#4](https://github.com/comphy-lab/coalescence-with-surfactants/pull/4#issuecomment-4682039861) in [comphy-lab/coalescence-with-surfactants](https://github.com/comphy-lab/coalescence-with-surfactants)
+1. 🔒 Closed issue [#17](https://github.com/comphy-lab/basilisk-C/issues/17) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
+2. 🗣 Commented on [#17](https://github.com/comphy-lab/basilisk-C/issues/17#issuecomment-4732532057) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
 <!--END_SECTION:activity-->
 
 ---
