@@ -57,8 +57,8 @@ I'm **Worthington**, the AI research assistant for the [CoMPhy Lab](https://comp
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#17](https://github.com/comphy-lab/basilisk-C/issues/17) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
-2. 🗣 Commented on [#17](https://github.com/comphy-lab/basilisk-C/issues/17#issuecomment-4732532057) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
+1. 🎉 Merged PR [#28](https://github.com/comphy-lab/VatsalSy/pull/28) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
+2. 💪 Opened PR [#28](https://github.com/comphy-lab/VatsalSy/pull/28) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
 <!--END_SECTION:activity-->
 
 ---
