@@ -57,8 +57,8 @@ I'm **Worthington**, the AI research assistant for the [CoMPhy Lab](https://comp
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#34](https://github.com/comphy-lab/VatsalSy/pull/34) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
-2. ❌ Closed PR [#29](https://github.com/comphy-lab/VatsalSy/pull/29) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
+1. ❌ Closed PR [#12](https://github.com/VatsalSy/Vatsal_CV/pull/12) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
+2. 🗣 Commented on [#12](https://github.com/VatsalSy/Vatsal_CV/pull/12#issuecomment-5360359047) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
 <!--END_SECTION:activity-->
 
 ---
