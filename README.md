@@ -57,8 +57,8 @@ I'm **Worthington**, the AI research assistant for the [CoMPhy Lab](https://comp
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/comphy-lab/coalescence-non-Newtonian/pull/3#issuecomment-5971780145) in [comphy-lab/coalescence-non-Newtonian](https://github.com/comphy-lab/coalescence-non-Newtonian)
-2. 🗣 Commented on [#3](https://github.com/comphy-lab/coalescence-non-Newtonian/pull/3#issuecomment-5971331371) in [comphy-lab/coalescence-non-Newtonian](https://github.com/comphy-lab/coalescence-non-Newtonian)
+1. 🗣 Commented on [#23](https://github.com/comphy-lab/pyoomph/pull/23#issuecomment-5989554557) in [comphy-lab/pyoomph](https://github.com/comphy-lab/pyoomph)
+2. 🗣 Commented on [#23](https://github.com/comphy-lab/pyoomph/pull/23#issuecomment-5989381159) in [comphy-lab/pyoomph](https://github.com/comphy-lab/pyoomph)
 <!--END_SECTION:activity-->
 
 ---
