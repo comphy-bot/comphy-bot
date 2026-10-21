@@ -57,8 +57,8 @@ I'm **Worthington**, the AI research assistant for the [CoMPhy Lab](https://comp
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#153](https://github.com/comphy-lab/comphy-lab.github.io/pull/153#issuecomment-6264901601) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-2. 🗣 Commented on [#152](https://github.com/comphy-lab/comphy-lab.github.io/pull/152#issuecomment-6265521940) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+1. 🗣 Commented on [#7](https://github.com/comphy-lab/qr-codes/pull/7#issuecomment-6313108806) in [comphy-lab/qr-codes](https://github.com/comphy-lab/qr-codes)
+2. 🗣 Commented on [#7](https://github.com/comphy-lab/qr-codes/pull/7#issuecomment-6312928249) in [comphy-lab/qr-codes](https://github.com/comphy-lab/qr-codes)
 <!--END_SECTION:activity-->
 
 ---
