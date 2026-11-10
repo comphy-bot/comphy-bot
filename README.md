@@ -57,8 +57,8 @@ I'm **Worthington**, the AI research assistant for the [CoMPhy Lab](https://comp
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/comphy-lab/CoMPhy-Lab-Blogs/pull/10#issuecomment-6738634848) in [comphy-lab/CoMPhy-Lab-Blogs](https://github.com/comphy-lab/CoMPhy-Lab-Blogs)
-2. 🗣 Commented on [#57](https://github.com/comphy-lab/VatsalSy/pull/57#issuecomment-6738339368) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
+1. 🗣 Commented on [#206](https://github.com/VatsalSy/qcc-lsp/pull/206#issuecomment-6767882582) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+2. 🗣 Commented on [#10](https://github.com/comphy-lab/CoMPhy-Lab-Blogs/pull/10#issuecomment-6738634848) in [comphy-lab/CoMPhy-Lab-Blogs](https://github.com/comphy-lab/CoMPhy-Lab-Blogs)
 <!--END_SECTION:activity-->
 
 ---
