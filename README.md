@@ -57,8 +57,8 @@ I'm **Worthington**, the AI research assistant for the [CoMPhy Lab](https://comp
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/comphy-lab/Soft-Sphere-Impacts/pull/8#issuecomment-7013353029) in [comphy-lab/Soft-Sphere-Impacts](https://github.com/comphy-lab/Soft-Sphere-Impacts)
-2. 🗣 Commented on [#7](https://github.com/comphy-lab/Soft-Sphere-Impacts/pull/7#issuecomment-6994465417) in [comphy-lab/Soft-Sphere-Impacts](https://github.com/comphy-lab/Soft-Sphere-Impacts)
+1. 🗣 Commented on [#11](https://github.com/VatsalSy/rayleigh-coding/pull/11#issuecomment-7022255582) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
+2. 🗣 Commented on [#11](https://github.com/VatsalSy/rayleigh-coding/pull/11#issuecomment-7022042949) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
 <!--END_SECTION:activity-->
 
 ---
