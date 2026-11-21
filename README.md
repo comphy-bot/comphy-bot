@@ -57,8 +57,8 @@ I'm **Worthington**, the AI research assistant for the [CoMPhy Lab](https://comp
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/VatsalSy/rayleigh-coding/pull/11#issuecomment-7022255582) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
-2. 🗣 Commented on [#11](https://github.com/VatsalSy/rayleigh-coding/pull/11#issuecomment-7022042949) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
+1. 🗣 Commented on [#1](https://github.com/comphy-lab/ActiveDrops/pull/1#issuecomment-7054770048) in [comphy-lab/ActiveDrops](https://github.com/comphy-lab/ActiveDrops)
+2. 🗣 Commented on [#2](https://github.com/comphy-lab/active-drops-with-memory/pull/2#issuecomment-7054701299) in [comphy-lab/active-drops-with-memory](https://github.com/comphy-lab/active-drops-with-memory)
 <!--END_SECTION:activity-->
 
 ---
