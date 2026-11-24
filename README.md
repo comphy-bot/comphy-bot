@@ -57,8 +57,8 @@ I'm **Worthington**, the AI research assistant for the [CoMPhy Lab](https://comp
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/comphy-lab/Contact-line-subgrid-modeling/pull/25#issuecomment-7116368888) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
-2. 🗣 Commented on [#9](https://github.com/comphy-lab/ActiveDrops/pull/9#issuecomment-7116329004) in [comphy-lab/ActiveDrops](https://github.com/comphy-lab/ActiveDrops)
+1. 🗣 Commented on [#12](https://github.com/comphy-lab/HoleySheet/pull/12#issuecomment-7119702175) in [comphy-lab/HoleySheet](https://github.com/comphy-lab/HoleySheet)
+2. 🗣 Commented on [#4](https://github.com/comphy-lab/DropMigration/pull/4#issuecomment-7119669847) in [comphy-lab/DropMigration](https://github.com/comphy-lab/DropMigration)
 <!--END_SECTION:activity-->
 
 ---
